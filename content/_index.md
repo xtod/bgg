@@ -13,3 +13,7 @@ weight: 00
 4. [白骨观想法](bai_gu_guan_xiang_fa)
 5. [化朽腐为神奇的不净观](hua_xiu_fu_wei_shen_qi_de_bu_jing_guan)
 6. [惭愧自责第三观法](can_kui_zi_ze_di_san_guan_fa)
+7. [化朽腐为神奇](hua_xiu_fu_wei_shen_qi)
+8. [白骨观和净土](bai_gu_guan_he_jing_tu)
+9. [薄皮观](bao_pi_guan)
+10. [白骨观和系心一缘](bai_gu_guan_he_xi_xin_yi_yuan)
