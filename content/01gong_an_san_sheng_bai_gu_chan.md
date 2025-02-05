@@ -1,5 +1,5 @@
 ---
-title: 第一节 公案三生白骨禅
+title: 公案三生白骨禅
 type: docs
 weight: 01
 slug: gong_an_san_sheng_bai_gu_chan
